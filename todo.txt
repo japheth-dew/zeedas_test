@@ -2,3 +2,4 @@
 add method to hide and show data_list
 add animation with framer motion to button slide in and out
 animate more button 
+
